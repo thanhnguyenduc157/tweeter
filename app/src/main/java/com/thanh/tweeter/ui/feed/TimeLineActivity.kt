@@ -44,7 +44,7 @@ class TimeLineActivity : Activity(), TimeLineView {
         rvTweet.adapter = tweetAdapter
         val mDividerItemDecoration = DividerItemDecoration(rvTweet!!.context,
                 linearLayoutManager.orientation)
-        rvTweet!!.addItemDecoration(mDividerItemDecoration)
+        rvTweet.addItemDecoration(mDividerItemDecoration)
 
     }
 
