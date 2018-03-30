@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tweeter</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="tweet_action">Tweet</string>
+    <string name="media">Media</string>
+    <string name="gif">GIF</string>
+    <string name="location">Location</string>
+    <string name="separatorSymbol">•</string>
+    <string name="sample_tweet_body"><![CDATA[Learn how @BAPS encourages civic participation & dialogue with elected officials and public servants in the US by following @BAPS_PubAffairs]]></string>
+    <string name="alpha">\@</string>
+    <string name="error_compose">Message should not contains a span of non-whitespace characters longer than 50 characters.</string>
+
+
+</resources>
